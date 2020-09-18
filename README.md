@@ -1,4 +1,4 @@
-# Using-Face-Detection-and-OCR-for-help-in-Crime-Investigation
+# Using Face Detection and OCR for help in Crime Investigation
 
 ## About The Project
 
